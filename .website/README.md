@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - roguelike
 directors_cut: https://www.newgrounds.com/portal/view/819609
 video: https://youtu.be/6VXrnk18Z4s
 post: https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/
